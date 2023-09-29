@@ -1,4 +1,6 @@
 # RL_Final_Projects_AMMI2023
+## A Comparative study of Deep Reinforcement learning methods for Cryptocurrency Trading
+
 This project is part of the final project for the Reinforcement Learning course taught by Bilal Piot and Bobak Shahriari.
 
 
