@@ -24,7 +24,8 @@ This project was done in collaboration with [Dieu-Donne Fangnon](https://github.
 
  :
 
-* 
+* The file RL_trading_system_good3.ipynb contains the implementation of the Deep Q-Network, Double Deep Q-Network, Dueling 
+Double Deep Q-learning networks
 * 
 * 
 * 
