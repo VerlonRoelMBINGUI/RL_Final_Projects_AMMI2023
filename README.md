@@ -21,7 +21,7 @@ This project is part of the final project for the Reinforcement Learning course 
 
 This project was done in collaboration with [Dieu-Donne Fangnon](https://github.com/dfangnon), [Armandine Sorel Kouyim Meli](https://github.com/sorelkouyim), [Phanie Dianelle Negho](https://github.com/PhanieDianelle) and [Regis Konan Marcel Djaha](https://github.com/RegisKonan)  
 
-*Dataset* : the the cryptoconcurrencies dataset used in this project is download on yfinance August 30, 2015 to August 30, 2023.
+####Dataset : the the cryptoconcurrencies dataset used in this project is download on yfinance August 30, 2015 to August 30, 2023.
 In this work, we use two kinds of assets: "BTC-USD" and "XRP-USD"
 
 
