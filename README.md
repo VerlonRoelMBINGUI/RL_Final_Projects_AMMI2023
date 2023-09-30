@@ -13,7 +13,7 @@ Our proposed approach hinges on the integration of Deep Q-Network, Double Deep Q
 Double Deep Q-learning networks, alongside the Advantage Actor-Critic algorithms. Each of them aims 
 to yield an optimal policy for our application. To evaluate the effectiveness of our 
 Deep Reinforcement Learning (DRL) approach, we rely on portfolio wealth  and the trade signal as performance metrics. 
-The experimental outcomes highlight that Duelling and Double Deep Q-Network outperformed when using XRP with the increasing of the portfolio wealth.
+The experimental outcomes highlight that Duelling and Double Deep Q-Network outperformed when using Ripple (XRP) with the increasing of the portfolio wealth.
     
 
 This project is part of the final project for the Reinforcement Learning course taught by Bilal Piot and Bobak Shahriari.
