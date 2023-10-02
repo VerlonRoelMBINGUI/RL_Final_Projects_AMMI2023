@@ -31,7 +31,12 @@ In this work, we use two kinds of assets: "BTC-USD" and "XRP-USD"
 Double Deep Q-learning networks
 
 * The notebook trading_system_A2C.ipynb contains the implementation of the Deep Q-Network, Double Deep Q-Network, Dueling Double Deep Q-learning networks
-* 
+## Some Results
+![DUEL XRP TRADE](https://github.com/VerlonRoelMBINGUI/RL_Final_Projects_AMMI2023/assets/126726283/122e03a9-6272-4a93-acfc-247acd8fbad4)
+![Duel_XRP_port](https://github.com/VerlonRoelMBINGUI/RL_Final_Projects_AMMI2023/assets/126726283/75234af0-0943-4a3b-85e8-d3bd77e6cfb0)
+![Dueling_BTC-USD Trade Signals](https://github.com/VerlonRoelMBINGUI/RL_Final_Projects_AMMI2023/assets/126726283/44f09da8-e545-4597-a098-3bfe60adb470)
+![Dueling_BTC-USD Portofolio Wealth](https://github.com/VerlonRoelMBINGUI/RL_Final_Projects_AMMI2023/assets/126726283/358f63a3-6ff9-44f1-9ca6-df5be772150c)
+
 
   
 
