@@ -19,7 +19,7 @@ The experimental outcomes highlight that Duelling and Double Deep Q-Network outp
 This project is part of the final project for the Reinforcement Learning course taught by Bilal Piot and Bobak Shahriari.
 
 
-This project was done in collaboration with [Dieu-Donne Fangnon](https://github.com/dfangnon), [Armandine Sorel Kouyim Meli](https://github.com/sorelkouyim), [Phanie Dianelle Negho](https://github.com/PhanieDianelle) and [Regis Konan Marcel Djaha](https://github.com/RegisKonan)  
+This project was done in collaboration with [Dieu-Donne Fangnon](https://github.com/dfangnon/RL_Final_Projects_AMMI2023), [Armandine Sorel Kouyim Meli](https://github.com/sorelkouyim), [Phanie Dianelle Negho](https://github.com/PhanieDianelle) and [Regis Konan Marcel Djaha](https://github.com/RegisKonan)  
 
 ####Dataset : The cryptoconcurrencies dataset used in this project is download on yfinance August 30, 2015 to August 30, 2023.
 In this work, we use two kinds of assets: "BTC-USD" and "XRP-USD"
